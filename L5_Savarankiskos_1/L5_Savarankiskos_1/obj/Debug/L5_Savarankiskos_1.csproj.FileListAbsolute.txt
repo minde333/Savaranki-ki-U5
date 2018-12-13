@@ -1,0 +1,7 @@
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\bin\Debug\L5_Savarankiskos_1.exe.config
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\bin\Debug\L5_Savarankiskos_1.exe
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\bin\Debug\L5_Savarankiskos_1.pdb
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\obj\Debug\L5_Savarankiskos_1.csprojAssemblyReference.cache
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\obj\Debug\L5_Savarankiskos_1.csproj.CoreCompileInputs.cache
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\obj\Debug\L5_Savarankiskos_1.exe
+C:\Users\gregru1\OneDrive - Kaunas University of Technology\L5_Savarankiskos\L5_Savarankiskos_1\obj\Debug\L5_Savarankiskos_1.pdb
